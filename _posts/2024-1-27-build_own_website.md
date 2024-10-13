@@ -31,7 +31,7 @@ author: pianfan
 
 借助 GitHub 平台搭建博客网站，首先要建立一个与你的 github 账号相关联的博客仓库。推荐没有网站建设经验的新手通过 fork 我的博客仓库迅速建立起你的第一个网站。下面我们就来详细介绍这种方法。
 
-点击链接 <https://github.com/pianfan/pianfan.github.io> 进入我的博客仓库地址，点击这里的 Fork。
+点击链接 <https://github.com/Forlives/Forlives.github.io> 进入我的博客仓库地址，点击这里的 Fork。
 
 ![点击Fork](https://pianfan.github.io/images/fork.png)
 
