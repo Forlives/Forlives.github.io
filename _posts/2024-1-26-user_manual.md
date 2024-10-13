@@ -28,7 +28,7 @@ author: pianfan
   
 - 如果您想针对某一个文章或议题发表您的疑问，并希望得到更精确的解答，推荐您使用 [GitHub 提供的 issues 交流社区](https://github.com/pianfan/pianfan.github.io/issues)，您也可以在这里解答他人的疑惑。除此之外，如果您发现我的文章中存在技术性错误，或者认为我的博客需要再添加一些功能，也可以在这里提出。
   
-- 因为 github 官方网址可能无法访问，如果您对我的文章存在疑问，或者想要与我合作，可联系我的私人邮箱：<xiongyunhan@outlook.com>。
+- 因为 github 官方网址可能无法访问，如果您对我的文章存在疑问，或者想要与我合作，可联系我的私人邮箱：<21haoshaonian@gmail.com>。
 
 ## 如何快速查找文章？
 
